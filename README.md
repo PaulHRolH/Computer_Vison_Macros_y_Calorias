@@ -7,7 +7,7 @@
 
 ---
 
-## Referencia del dataset (BibTeX)
+## Referencia del dataset
 ```bibtex
 @inproceedings{thames2021nutrition5k,
   title        = {Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food},
